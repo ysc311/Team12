@@ -39,3 +39,6 @@
 
 
 ## 動態模擬畫面
+### [畫面預覽](https://www.figma.com/proto/ngzn6QywJrgvd7ezpzBLzV/team12?type=design&node-id=23-257&t=hfKzbv1OXxxDNhVF-0&scaling=scale-down&page-id=0%3A1&starting-point-node-id=23%3A257)
+
+ ![figma](figma.png 'figma')
